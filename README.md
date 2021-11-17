@@ -1,2 +1,2 @@
 # Formulario_SENA
-Se cambió el fondo del formulario, pero aún no se ha podido centrar los input
+Se arregló el formulario, ya entraremos a la parte de la conexión con JavaScript.
